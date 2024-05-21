@@ -41,6 +41,7 @@ This is where our dear LLM helps. They are so good already. They are smart enoug
 
 ## Solution
 
+![Arch](https://github.com/HiAditHere/Snowflake-Hackathon/assets/39706219/2ce898a7-ee56-4f09-ade1-fb954a5facc2)
 
 1) Scrape Comments and store in S3
 2) Import comments from S3 to Snowflake and do transliteration/translation
